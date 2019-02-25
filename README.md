@@ -16,9 +16,10 @@ To clone from a specific branch
 To clone to a specific folder
 
     git clone URL_HERE PROJECT_NAME
-If working with multiple git accounts remotely
-git clone https://username:password@github.com/username/repository.git
-  
+
+If working with multiple git accounts remotely 
+
+    `git clone https://username:password@github.com/username/repository.git`  
 
 ### add remote to git folder
 
